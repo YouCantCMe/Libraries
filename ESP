@@ -1,11 +1,11 @@
 local ESP = {
     Enabled = false,
-    Boxes = false,
+    Boxes = true,
     BoxShift = CFrame.new(0,-1.5,0),
 	BoxSize = Vector3.new(4,6,0),
     Color = Color3.fromRGB(207, 207, 207),
     FaceCamera = false,
-    Names = false,
+    Names = true,
     TeamColor = false,
     Thickness = 2,
     AttachShift = 1,
